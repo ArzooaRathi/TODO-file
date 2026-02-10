@@ -1,72 +1,58 @@
-📌 About Project
+📝 To-Do List Web Application
+📌 Project Description
 
-This is a simple To-Do List web project created using HTML and CSS.
-It helps users organize and manage daily tasks in a clean and simple interface.
-
-🛠️ Technologies Used
-
-HTML
-
-CSS
-
-✨ Features
-
-Add daily tasks
-
-Simple and user-friendly design
-
-Clean layout using CSS
-
-📂 How to Use
-
-Download or clone the repository
-
-Open the index.html file in any web browser
-
-Start adding your tasks
-
-🎯 Purpose
-
-This project is created for learning basic frontend development using HTML and CSS.
-
-Agar aap chaho to main:
-✔️ GitHub par repo banana
-✔️ README upload karna
-✔️ project ka description short ya long
-
-step-by-step bata sakta hoon 😊
-
-readme ke liye
-
-Theek hai 👍
-Ye GitHub README.md ke liye simple, clean aur correct content hai (HTML + CSS To-Do List):
-
-📝 To-Do List Project
-📌 Description
-
-This is a simple To-Do List web project built using HTML and CSS.
-It allows users to list and organize their daily tasks in an easy way.
+This is a simple To-Do List web application built using HTML, CSS, and JavaScript.
+The project helps users add, manage, complete, and delete daily tasks in an easy and user-friendly way.
 
 🛠️ Technologies Used
 
-HTML
+HTML – Structure of the web page
 
-CSS
+CSS – Styling and layout design
+
+JavaScript – Functionality and interactivity
 
 ✨ Features
 
-Simple task listing
+Add new tasks
 
-Clean and user-friendly design
+Mark tasks as completed
 
-Basic frontend layout using CSS
+Delete tasks from the list
 
-🚀 How to Run
+Clean and responsive user interface
+
+Prevents adding empty tasks
+
+🎨 Design (CSS)
+
+Uses Flexbox to center the layout
+
+Card-style container with shadow and rounded corners
+
+Different colors for completed and active tasks
+
+Simple and clean UI for better user experience
+
+⚙️ Functionality (JavaScript)
+
+Tasks are added dynamically using DOM manipulation
+
+Click on a task to mark it as completed
+
+Delete button removes the task instantly
+
+Uses event listeners for user actions
+
+🚀 How to Run the Project
 
 Download or clone the repository
 
 Open index.html in any web browser
 
+Start adding your tasks
+
 🎯 Objective
 
-This project is created to practice basic web development skills using HTML and CS
+This project is created to practice basic frontend web development concepts like
+HTML structure, CSS styling, and JavaScript DOM manipulation.
